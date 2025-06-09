@@ -1,0 +1,7 @@
+.vscode
+.DS_Store
+dist
+app.yaml
+venv
+__pycache__
+easytier/lib/libeasytier_ffi.dylib
