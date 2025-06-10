@@ -1,7 +1,7 @@
 
 import os
 import sys
-from .easytier_cffi import ffi
+from ._easytier_cffi import ffi
 
 class EasyTier:
     def __init__(self):

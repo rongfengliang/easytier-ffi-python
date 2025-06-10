@@ -2,6 +2,12 @@
 
 ## running 
 
+* build
+
+```code
+ python -m build --wheel
+```
+
 * app.yaml
 
 ```code
