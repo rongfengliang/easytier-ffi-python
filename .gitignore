@@ -4,6 +4,5 @@ dist
 app.yaml
 venv
 __pycache__
-easytier/lib/libeasytier_ffi.dylib
 easytier.egg-info
 build

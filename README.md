@@ -5,7 +5,7 @@
 * build
 
 ```code
- python -m build --wheel
+python -m build --wheel
 ```
 
 * app.yaml
